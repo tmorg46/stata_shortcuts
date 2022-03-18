@@ -1,4 +1,9 @@
 # data_shortcuts
 this is all of my nice stata shortcut stuff
 
-global_allstates is a ready-to-go global macro of state and territory strings for Stata. Note the quotes around the entire macro.
+- global_allstates:
+line one is a ready-to-go global macro of state and territory strings for Stata.
+the rest of the file is some example code with stuff to look out for.
+
+- allstates
+just lines of codes with the states in lower, Proper, and UPPER cases
