@@ -45,6 +45,6 @@ foreach split in $big_file_splits {
 }
 
 *save the appended, fininished file in some folder with path "$route"
-save "$route\bigset_censustree.dta", replace
+save "$route\big_merged_file.dta", replace
 
 
