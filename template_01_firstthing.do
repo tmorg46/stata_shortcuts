@@ -8,3 +8,14 @@
 *******************
 *Do the First Thing
 *******************
+
+*code to do the first thing
+di "hello"
+
+
+********
+*Cleanup
+********
+
+clear
+discard
