@@ -11,6 +11,9 @@ used to append lots of datasets to each other in Stata.
 line one is a ready-to-go global macro of state and territory strings for Stata.
 the rest of the file is some example code with stuff to look out for.
 
+- month_labeler:
+use this code to label month variables that range from 1-12 with their respective names.
+
 - split_merge_append_template:
 use this technique when you're trying to merge huge datasets that your computer
 can't handle in one step.
