@@ -1,4 +1,4 @@
-single-line lists of every US state and major territory, with and without quotes.
+single-line lists of every US state and major territory, with and without quotes. use extra double quotes `""' if used in a Stata macro
 
 ***************
 *WITHOUT QUOTES
