@@ -4,7 +4,7 @@
 
 /* 
 
-Name of the Project
+doing a Template Thing
 Code by Tommy Morgan
 Data and Paper by:
 Tommy Morgan, EveryoneElseHere
@@ -15,8 +15,8 @@ clear
 discard
 cap log close
 
-// Set this global to the path of the projectnamegoeshere folder, where the stuff goes
-global route "V:\FHSS-JoePriceResearch\RA_work_folders\Tommy_Morgan\projectnamegoeshere"
+// Set this global to the path of the template folder, where the stuff goes
+global route "V:\FHSS-JoePriceResearch\RA_work_folders\Tommy_Morgan\template"
 
 { // OTHER GLOBALS
 
