@@ -2,7 +2,7 @@
 
 *run this within template_hq
 
-*01: do the first thing
+*01: the first thing
 
 
 *******************
