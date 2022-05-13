@@ -1,44 +1,42 @@
 *****************************
 
-*Headquarters do-file: run the other do-files
+*version v.0
 
 /* 
 
-The Title of the Project
-Code by The Coder
+Name of the Project
+Code by Tommy Morgan
 Data and Paper by:
-The People Who Wrote the Paper and the Data Sources
+Tommy Morgan, EveryoneElseHere
 
 */
 
 clear
 discard
+cap log close
 
-// Set this global to the path of the big folder, where the stuff goes
-global route 
-
+// Set this global to the path of the projectnamegoeshere folder, where the stuff goes
+global route "V:\FHSS-JoePriceResearch\RA_work_folders\Tommy_Morgan\projectnamegoeshere"
 
 { // OTHER GLOBALS
 
-	{ // used in *01: do the first thing
-		
-		
-		
-	} 
+	*the first thing created in *00, used in *18
+	global used_global "the global"
 
-
-	*unused for now
+	*the second thing created in *00, used in ...
+	global unused_global "the unused global"
 	
+	*some list of things, used in *46
+	global list_of_things thing1 thing2 thing3
 	
-
 } // END GLOBALS
 
 
 *navigate to the do-file folder
 cd "$route\dofiles"
 
-*01: do the first thing
-*do thefirstdofile // tested, works!
+*01: the first thing
+do project_01_first_thing // tested, works
 
-*02: do the second thing
-*do the seconddofile // untested
+*02: the second thing
+do project_02_second_thing // unfinished
