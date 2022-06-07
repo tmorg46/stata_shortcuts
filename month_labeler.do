@@ -1,4 +1,4 @@
-*use this and replace the XXXX's with whatever variables you have in 1-12 month format
+*use this and replace the XXXX's at the bottom with the names of the variables you have in numeric 1-12 format
 
 *create the label for the month variables
 label define month_lbl 1 `"January"'
