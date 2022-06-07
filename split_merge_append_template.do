@@ -3,6 +3,7 @@
 *use this when your datasets are too big to merge in one step
 
 *preliminary step is to have saved the big file you want to merge stuff onto
+*it also uses a $route global to some big project file
 
 
 **************************************
