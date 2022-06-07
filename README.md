@@ -12,7 +12,7 @@ lines of codes with the states in lower, Proper, and UPPER cases, with and witho
 - month_labeler:
 use this code to label month variables that range from 1-12 with their respective names.
 
-- split_merge_append_template:
+- split_merge_append:
 use this technique when you're trying to merge huge datasets that your computer
 can't handle in one step.
 
