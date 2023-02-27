@@ -11,3 +11,13 @@ lines of code with the states in lower, Proper, and UPPER cases, with and withou
 
 - month_labeler:
 use this code to label month variables that range from 1-12 with their respective names.
+
+- state_denoters:
+this is a crosswalk between all the ways that states are identified in datasets.
+variables included are as follows:
+  statename (string state name with Title Caps)
+  state_lower (string state name in lowercase)
+  state_upper (string state name in UPPERCASE)
+  state (string two-letter state abbreviation)
+  statefip (state FIPS code number)
+  stateicp (state ICP code number)
